@@ -1,0 +1,14 @@
+{
+	"comment": "Fechas del examen de DAD",
+	"fechas": [
+		{"title": "Evaluacion de la primera unidad",
+		 "fecha": "30/03/2018"},
+		{"title": "Evaluacion de la segunda unidad",
+		 "fecha": "31/04/2018"},
+		{"title": "Evaluacion de la tercera unidad", 
+                 "fecha": "29/05/2018"},
+                {"title": "Evaluacion de la cuarta unidad", 
+                 "fecha": "01/07/2018"}
+
+	]
+}
